@@ -1,6 +1,7 @@
 /*  不要62 HDU - 2089 
     https://vjudge.net/problem/HDU-2089
     暴力预处理
+    32ms 5.3MB
 */
 
 #include<iostream>
